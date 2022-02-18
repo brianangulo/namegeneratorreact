@@ -38,8 +38,7 @@ class Content extends Component{
                     </div>
                     <div className="col offset-4">
                         <button className="btn btn-info" onClick={this.handlename}>Genarate A Name</button>
-                        <p>The button above Genarate a name for you! </p>
-                        
+                        <p>The button above Genarate a name for you! </p>        
                     </div>
                 </div>
             </div>
