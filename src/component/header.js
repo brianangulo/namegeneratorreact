@@ -1,12 +1,14 @@
-import React from 'react'
+import React from 'react';
+import {}from 'reactstrap'
+
 
 
 function  Header(){
     return(
-        <div className='container'>
+        <div className='container-fluid'>
             <div className='row'>
-                <div className='col-md-4'>
-                    <h1>header</h1>
+                <div className='col-md-12 offset-4'>
+                    <h1>Name Genarator</h1>
                 </div>
             </div>
         </div>
